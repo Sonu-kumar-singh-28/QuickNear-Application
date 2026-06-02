@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452068334577",
+    "project_id": "nearby-store-application",
+    "storage_bucket": "nearby-store-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452068334577:android:1796d01d12fd01c5484250",
+        "android_client_info": {
+          "package_name": "com.grocery.delivered.nearbystoreapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5W20ns-wttIwIMEBrQymaCGrqvqQ2h9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
