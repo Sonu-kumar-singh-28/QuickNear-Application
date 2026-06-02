@@ -104,3 +104,66 @@ com.grocery.delivered.nearbyapp
 ├── viewmodel/
 ├── ui.theme/
 └── MainActivity.kt
+
+
+🧠 Architecture Flow
+UI (Jetpack Compose Screens)
+        ↓
+ViewModel
+        ↓
+Repository Layer
+        ↓
+Remote / Local Data Source
+        ↓
+UI State Updates
+🎯 Core Modules
+🏠 Dashboard Module
+Category browsing system
+Promotional banners
+Quick navigation shortcuts
+🔎 Search & Results Module
+Smart search engine
+Nearest and popular listings
+Sub-category filtering
+🗺️ Map Module
+Live location tracking
+Nearby store pins visualization
+Route navigation support
+⚙️ Setup Instructions
+1. Clone the Repository
+git clone https://github.com/Sonu-kumar-singh-28/QuickNear-Application.git
+2. Open in Android Studio
+Open the project folder
+Wait for Gradle sync to complete
+3. Add Required API Key
+
+Create or update local.properties:
+
+GOOGLE_MAPS_API_KEY=YOUR_API_KEY
+📈 Future Enhancements
+🤖 AI-powered recommendation system
+💬 Real-time chat between users and service providers
+🧭 Advanced navigation with live routing
+📶 Offline caching for nearby data
+⭐ Ratings and reviews system
+🔔 Push notifications for nearby deals and offers
+🏆 Project Highlights
+✔ Production-level MVVM architecture
+✔ Fully Jetpack Compose-based UI
+✔ Scalable and modular codebase
+✔ Real-time location intelligence
+✔ Clean, maintainable, and extensible structure
+👨‍💻 Developer
+
+Sonu Kumar Singh
+Android Developer | Kotlin | Jetpack Compose Enthusiast
+
+📌 License
+
+This project is intended for educational and portfolio purposes only.
+
+🚀 Final Note
+
+QuickNear is a startup-ready hyperlocal platform concept designed to evolve into a full-scale real-world product with AI, real-time services, and location-based intelligence.
+
+
